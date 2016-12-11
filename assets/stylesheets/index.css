@@ -19,6 +19,9 @@ body {
 	padding: 10px;
 	background-color: #CFCFCF;
 }
+.details {
+	margin: 20px 0 20px 0;
+}
 footer {
 	margin-top: 20px;
 	padding-top: 10px;
