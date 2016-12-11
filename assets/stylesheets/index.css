@@ -2,9 +2,12 @@
 	margin: 0;
 	padding: 0;
 }
+body {
+	background-color: #6D6A6A;
+}
 
 .content-home {
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	margin: 40px;
 }
 
